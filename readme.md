@@ -1,7 +1,7 @@
 # Fruit Slicing Frenzy
 
-This is a loose clone of the mobile game 'Fruit Ninja' written in HTML/CSS/JavaScript to satisfy a final project contraint of only using CSS Animations to animate content. 
-Javascript was allowed to define spawning and game logic for this project.
+This is a loose clone of the mobile game 'Fruit Ninja' written in HTML/CSS/JavaScript to satisfy a final project constraint of only using CSS Animations to animate content.  
+JavaScript was allowed to define spawning and game logic for this project.
 
 &nbsp;
 
