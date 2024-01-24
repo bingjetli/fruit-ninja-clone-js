@@ -19,6 +19,8 @@ This project was extracted from the previous directory at [http5111-web-developm
 
 Aside from satisfying the project constraints, here are a few notable highlights about this project :
 - Fruits are animated with real projectile physics using kinematic equations inside CSS `calc()` statements.
+- Fruit spin velocity is based on thrown velocity.
+- Fruit direction is based on which side of the screen the fruit is thrown from.
 - Screenshake animation implemented in CSS. 
 - DOM update optimizations.
 - Detailed documentation included in the source files.
