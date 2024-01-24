@@ -8,6 +8,10 @@ JavaScript was allowed to define spawning and game logic for this project.
 There is a live demo of this project hosted using GitHub Pages at the bottom of this README.
 
 &nbsp;
+
+This project was extracted from the previous directory at [http5111-web-development-1/html-final-project](https://github.com/bingjetli/http5111-web-development-1/tree/main/html-final-project).
+
+&nbsp;
 &nbsp;
 
 
